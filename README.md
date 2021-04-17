@@ -1,3 +1,7 @@
+**This module is now discontinued - there will be no more made unless there is sufficient demand to justify a new run of boards.**
+
+**Information provided here is provided under the terms of the Creative Commons License Attribution-ShareAlike 4.0 International**
+
 First of all, you're probably wondering what a direct mount module is - easy, it's a panel-sized PCB which you attach directly to your rack. 
 Maybe not so good for performance use, but for tinkering around it's perfect.
 
@@ -13,3 +17,6 @@ There's provision for matching both PNP and NPN transistors, and each has a coup
 measure the differential voltage (or not) of a transistor pair. This is a simple build, and the only remotely exotic components required are two 
 pairs of matched 100k resistors (I used 0.1% tolerance resistors in my build because there's no kill like overkill) otherwise it's stuff you'd 
 probably find lurking in your bits box.
+
+If you plan to fab your own boards, I *strongly* recommend having them fabbed from 2mm substrate rather than 1.6mm - it'll cost a bit more but the
+end result will be far more sturdy (and less flexible)
